@@ -26,7 +26,7 @@ As a reader I want kids to have access to education and the support they need so
 
 The bulk of my data is publicly available. Most of my data is from the statistical briefing book of the Office of Juvenile Justice and Delinquency Prevention (https://www.ojjdp.gov/ojstatbb/). I will be using this source for data about arrest, court case, detention and re-arrest rates for US youth. For these measures, I have access to demographic information such as race and gender. For youths in detention, I will look at additional demographic information like data around health, such as exposure to family violence. I will also use this source for information about the facilities themselves like what mental health and educational services they offer. Lastly, I will use data found in an article in the New Thinking in Community Corrections Bulletin for data about international juvenile detention rates.
 
-![Data](Telling Stories with Data Final Project.xlsx)
+https://github.com/mkresnick11/dataviz2/blob/master/Telling%20Stories%20with%20Data%20Final%20Project.xlsx
 
 ## Method and Medium
 
