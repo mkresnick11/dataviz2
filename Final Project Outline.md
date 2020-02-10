@@ -3,6 +3,7 @@
 ## Outline
 
 **Summary**
+
 For my final project, I am focusing on the state of the US juvenile justice system. I want to show that although juvenile detention rates have declined dramatically, the US still incarcerates more children than any other country. I will highlight how the juvenile justice system disproportionally impacts minority youth, is mainly concentrated in non-violent offense and perpetuates the challenges children who are already at a disadvantage face. Many states have already implemented laws to improve their juvenile justice systems and hopefully more awareness around the current state of the system will generate support for future initiatives.
 
 Quick Summary - The US is locking up disadvantaged children, mainly for non-violent crimes, and is providing little in the way of support. US kids deserve more than the current juvenile justice system.    
