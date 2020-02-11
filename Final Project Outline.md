@@ -59,9 +59,9 @@ This source has information about how detention varies by race
 
 13. Growing Up Locked Down Youth in Solitary Confinement in Jails and Prisons Across the United States. ACLU and Humans Rightd Watch. (2012). http://www.njjn.org/uploads/digital-library/Growing-Up-Locked-Down--Youth-in-Solitary-Confinement-in-Jails-and-Prisons-Across-the-United-States_HRW-ACLU_10-10-12.pdf I'll use this source for information about treatment while incarcerated.
 
-13.Schiraldi, Vincent & McCarthy, Patrick & Shark, Miriam. The Future of Youth Justice: A Community-Based Alternative to the Youth Prison Model. New Thinking in Community Corrections Bulletin. NCJ 250142.(2016).  https://www.researchgate.net/publication/310607289_The_Future_of_Youth_Justice_A_Community-Based_Alternative_to_the_Youth_Prison_ModelLastly. I'll use this mainly for international rates of youth incarceration.
+14.Schiraldi, Vincent & McCarthy, Patrick & Shark, Miriam. The Future of Youth Justice: A Community-Based Alternative to the Youth Prison Model. New Thinking in Community Corrections Bulletin. NCJ 250142.(2016).  https://www.researchgate.net/publication/310607289_The_Future_of_Youth_Justice_A_Community-Based_Alternative_to_the_Youth_Prison_ModelLastly. I'll use this mainly for international rates of youth incarceration.
 
-14.Westall, Sarah. Kids Locked Up in America – Youth Incarceration Rates are 5 to 10 Times Higher than Other Developed Countries https://sarahwestall.com/youth-incarceration/. (2017). I'll use this for information about cost. 
+15.Westall, Sarah. Kids Locked Up in America – Youth Incarceration Rates are 5 to 10 Times Higher than Other Developed Countries https://sarahwestall.com/youth-incarceration/. (2017). I'll use this for information about cost. 
 
 https://github.com/mkresnick11/dataviz2/blob/master/Telling%20Stories%20with%20Data%20Final%20Project.xlsx
 
