@@ -5,6 +5,8 @@
 ![Storyboard](Final Project Part 2.pdf)
 https://github.com/mkresnick11/dataviz2/blob/master/Final%20Project%20Part%202.pdf
 
+[Storyboard](https://github.com/mkresnick11/dataviz2/blob/master/Final%20Project%20Part%202.pdf)
+
 # User Research Protocol
 
 * Audience and Interview Candidate Selection Process * 
