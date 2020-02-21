@@ -9,7 +9,7 @@ https://github.com/mkresnick11/dataviz2/blob/master/Final%20Project%20Part%202.p
 
 # User Research Protocol
 
-* Audience and Interview Candidate Selection Process * 
+**Audience and Interview Candidate Selection Process** 
 
 I believe my topic has a wide audience. I think it's one that most people will care and be concerned about.  
 I understand my audience as anyone who lives in America or even more broadly: anyone who could spread awareness 
@@ -18,7 +18,7 @@ could be a good candidate for me to interview. I’ll do my best to find a wide 
 age, program or politics. 
 
 
-interviewees
+**Interviewees**
 
 1. Woman, Late 20's, Heinz Student
 2. Woman, early 20's, Heinz Student
