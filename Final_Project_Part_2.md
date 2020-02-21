@@ -44,7 +44,7 @@ the US juvenile justice system. Do you have some time to take a look at the roug
 
 **Interview Findings**
 
-**Question 1 and 2**
+**Questions 1 and 2**
 
 Section 1. This graph got a good response in terms of the meaning I wanted to convey. Everyone that I interviewed thought this graph was clear and was able to understand its meaning quickly. I did get comments about the text in section 1, specifically the however. I meant this as a transition and this might not be an issue when my project is in shorthand and someone would be scrolling through the story instead of looking at it page by page. The other comment about the text I got was that I should define what youth means. This is a good comment and I will make sure to define youth as someone who is under 18. I also got a comment that it could be interesting to include other factors on the line graph. For example has the gender breakdown stayed constant over time or has it changed?
 
@@ -56,7 +56,7 @@ Section 4. This graph got several comments about how it was confusing. Someone p
 
 Section 5.1 The people I interviewed thought that the pie charts were clear. For the third graphic, I got a comment that my color legend should reflect the order of the visualization. Again, I need subtitles for these graphs giving more specific information about what they are showing. I also got comments that there is too much text on this page, which is something I will have more control over when I’m working in shorthand. 
 
-Section 5.2 - The people I interviewed thought the dot chart was clear and communicated its intending meaning quickly.
+Section 5.2 The people I interviewed thought the dot chart was clear and communicated its intending meaning quickly.
 
 Section 6. I got comments that the first graph is lost in the wording and that I should let the bar chart stand out more. I got a good response on the above and below aspect of the bar chart, but I think I might need to think about the units on the y-axis a bit more. Someone pointed out to me that the I had zero between the two 50%s, which was confusing since that is meant to show the average acedemic performance. Also the negative 50% is confusing and isn't what I want to show - which is being below average, not a 50% decrease.  be I did not get comments about how the second visualization (stick figures). I think I’ll need to add more description to this visualization
 
@@ -91,13 +91,12 @@ One interviewee mentioned that he wished there was a section on the cost of the 
  Also, while I was able to improve my treemap, I could not figure out how to make each section vertical which was a suggestion I got during an interview. I also couldn't figure out how to stack bar charts for my visualizations of educational outcomes while detained. I am pretty happy with the digital version of my first three charts which are below:
  
  
+US Incarceration Rates 
  
- US Incarceration Rates 
- 
- ![US Juvenile Incarceration Rates](US rate.pdf)
+![US Juvenile Incarceration Rates](US rate.pdf)
  
  
- International Youth Incarceration Rates
+International Youth Incarceration Rates
  
  <iframe title="The US is the World Leader in Youth Incarceration" aria-label="Column Chart" id="datawrapper-chart-G6rRh" src="//datawrapper.dwcdn.net/G6rRh/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="613"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
