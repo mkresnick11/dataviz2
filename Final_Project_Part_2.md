@@ -17,13 +17,6 @@ about the state of the juvenile justice system. As I think my topic has a wide r
 could be a good candidate for me to interview. I’ll do my best to find a wide range of people who vary in
 age, program or politics. 
 
-
-**Interviewees**
-
-1. Woman, Late 20's, Heinz Student
-2. Woman, early 20's, Heinz Student
-3. Man, Late 50's, Retired
-
 **Interview Script**
 
 Introduction - Hi. My name is Melanie. I’m taking Telling Stories with Data this semester. For my final project, I’ve decided to look at 
@@ -43,6 +36,11 @@ the US juvenile justice system. Do you have some time to take a look at the roug
 
 
 **Interviewees**
+
+1. Woman, Late 20's, Heinz Student
+2. Woman, early 20's, Heinz Student
+3. Man, Late 50's, Retired
+
 
 **Interview Findings**
 
