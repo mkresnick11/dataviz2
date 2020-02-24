@@ -12,7 +12,7 @@ Quick Summary - The US is locking up disadvantaged children, mainly for non-viol
 
 I imagine my project starting with a broad perspective. I will state that although juvenile detention rates have declined, the US still remains the country that incarcerates the most youth. I will then put a personal face on the juvenile justice system by telling the story of someone who went through the system and how they ended up in detention. From there, I will expand the focus to look at demographic trends of the juvenile justice system and try to show who is being incarcerated and why. I will follow with data about the outcome and experiences of children who are in juvenile detention centers. This should support the idea that detention and only punitive measures are not an effective way to combat juvenile crime/behavioral problems. I will end with a call to action to support organizations that advocate for the rights of incarcerated youth and legislation that aims to improve the juvenile justice system. 
 
-![Story Arc](Story Arc.JPG)
+![Story Arc](Story Arc 2.jpeg)
 
 **User Stories**
 
