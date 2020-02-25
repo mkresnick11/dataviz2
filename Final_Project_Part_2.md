@@ -178,12 +178,6 @@ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';     
 
  
  
- 
- <iframe title="The US is the World Leader in Youth Incarceration" aria-label="Column Chart" id="datawrapper-chart-G6rRh" src="//datawrapper.dwcdn.net/G6rRh/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="613"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
-</script>
- 
- 
- 
  <iframe title="Black Youth are Overrepresented in Juvenile Justice Facilities  " aria-label="Stacked Column Chart" id="datawrapper-chart-V59QT" src="//datawrapper.dwcdn.net/V59QT/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
