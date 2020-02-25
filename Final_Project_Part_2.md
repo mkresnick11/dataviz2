@@ -163,9 +163,11 @@ One interviewee mentioned that he wished there was a section on the cost of the 
  Also, while I was able to improve my treemap, I could not figure out how to make each section vertical which was a suggestion I got during an interview. I also couldn't figure out how to stack bar charts for my visualizations of educational outcomes while detained. I am pretty happy with the digital version of my first three charts which are below:
  
  
-US Incarceration Rates 
  
-![US Juvenile Incarceration Rates](US rate.pdf)
+ 
+ <iframe title="The Number of US Incarcerated Youth has Plummeted " aria-label="Interactive line chart" id="datawrapper-chart-sUrkj" src="//datawrapper.dwcdn.net/sUrkj/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+
  
  
  
