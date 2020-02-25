@@ -159,7 +159,7 @@ Two people I interviewed thought the main message of the project was that there 
 
 One interviewee mentioned that he wished there was a section on the cost of the juvenile justice system and said that could further emphasize the project’s point. He thought this section could potentially be before the recidivism section. Other final comments were more theoretical about ideas like what it means that this data is in some cases not even being collected. 
 
- # Revised wireframes
+ # Revised Wireframes
  
  I still have a lot of work left to do for my visualizations. I'm not sure how to make group symbol charts so I'll need to look into this. I also think a lolipop chart go be effective for certain parts of data, so I'll look into this as well. 
  Also, while I was able to improve my treemap, I could not figure out how to make each section vertical which was a suggestion I got during an interview. I also couldn't figure out how to stack bar charts for my visualizations of educational outcomes while detained. I am pretty happy with the digital version of my first three charts which are below:
