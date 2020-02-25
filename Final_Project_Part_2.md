@@ -77,8 +77,6 @@ I’ll also do more qualitative research to give my projects additional dimensio
 
 # Wireframes/Storyboard 
 
-https://github.com/mkresnick11/dataviz2/blob/master/Final%20Project%20Part%202.pdf
-
 [Storyboard](https://github.com/mkresnick11/dataviz2/blob/master/Final%20Project%20Part%202.pdf)
 
 # User Research Protocol
