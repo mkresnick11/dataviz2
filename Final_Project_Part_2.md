@@ -71,7 +71,7 @@ My next step for my final project is to do a more in-depth analysis of the data 
 
 I’ll use data visualization tools like tableau, datawrapper and rawgraphs to make my visualizations. I’ll also rely on user feedback as I make and rework my visualizations. For my final deliverable, I’ll use shorthand so I can create a narrative with my data visualizations. 
 
-I’ll also do more qualitative research to give my projects additional dimensions. I’ll look for personal stories about experiences with the juvenile justice system, which will hopefully add another more emotional layer to my project. I also want to better understand what non-profit organizations supports this issue and what current legislation looks like for this issue.
+I’ll also do more qualitative research to give my projects additional dimensions. I’ll look for personal stories about experiences with the juvenile justice system, which will hopefully add another more emotional layer to my project. I also want to better understand what non-profit thoughts on this issue and what current legislation looks like for this issue.
 
 ## Final Project Part 2
 
