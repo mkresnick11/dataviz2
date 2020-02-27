@@ -2,7 +2,7 @@
 
 ## Early Thoughts - Final Project Part 1
 
-### Outline
+## Outline
 
 **Summary**
 
@@ -22,14 +22,14 @@ As a reader I want juvenile detention to be used sparingly and only for the most
 
 As a reader I want kids to have access to education and the support they need so they can have better outcomes. 
 
-# Initial Sketches
+## Initial Sketches
 
 ![Sketches](Sketches.JPG)
 
 For these sketches I focused on what has stood out to me in the data so far: the US being a global leader in youth incarceration, the significant decrease of incarcerated youth, the over representation of minorities in the juvenile justice system, the large amount of incarcerated youth that have experienced trauma and high rates of re-arrest. I thought most about how to make these points standout in visual form when I was sketching.  
 
 
-# Data
+## Data
 
 I will be using a lot of data from the statistical briefing book of the Office of Juvenile Justice and Delinquency Prevention (https://www.ojjdp.gov/ojstatbb/). This site offers a massive amount of publically available data about arrest rate, court cases, and detention rates for US youth. For these measures, I also have access to demographic information such as race and gender and the type of office. This source also offers information about detention facilities themselves, such as types of educational and mental health services that are available. Although OJJDP, has tons of data, I thought it was interesting how they had little to no data about youth outcomes who had been detained or about measures of success that placement facilities could use to evaluate themselves. For information of this type, I found data within research studies and reports from non-profits.  
 
@@ -77,11 +77,11 @@ I’ll also do more qualitative research to give my projects additional dimensio
 
 ## First Draft - Final Project Part 2
 
-# Wireframes/Storyboard 
+## Wireframes/Storyboard 
 
 [Storyboard](https://github.com/mkresnick11/dataviz2/blob/master/Final%20Project%20Part%202.pdf)
 
-# User Research Protocol
+## User Research Protocol
 
 **Audience and Interview Candidate Selection Process** 
 
@@ -205,11 +205,11 @@ Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='table
 </script>
  
  
- ## Deliverable, Closing Thoughts and Sources - Final Project Part 3
+# Deliverable, Closing Thoughts and Sources - Final Project Part 3
 
 To see my deliverable:
 
-# Closing Thoughts
+## Closing Thoughts
 
 **Audience**
 
