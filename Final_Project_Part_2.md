@@ -1,4 +1,4 @@
-## Final Project Part 1
+## Early Thoughts - Final Project Part 1
 
 # Outline
 
@@ -73,7 +73,7 @@ I’ll use data visualization tools like tableau, datawrapper and rawgraphs to m
 
 I’ll also do more qualitative research to give my projects additional dimensions. I’ll look for personal stories about experiences with the juvenile justice system, which will hopefully add another more emotional layer to my project. I also want to better understand what non-profit thoughts on this issue and what current legislation looks like for this issue.
 
-## Final Project Part 2
+## First Draft - Final Project Part 2
 
 # Wireframes/Storyboard 
 
@@ -203,4 +203,90 @@ Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='table
 </script>
  
  
+ ## Deliverable, Closing Thoughts and Sources - Final Project Part 3
+
+To see my deliverable:
+
+# Closing Thoughts
+
+**Audience**
+
+My audience has remained much the same since I first started thinking about this project. I still believe that the US juvenile justice system is a national issue that I hope would resonate with all American regardless of region, age or gender etc. I did, though, try to keep the content of my project at a broad, high level to make it as accessible as possible. 
+
+I wanted my project to be readable and easy to understand so that no one would get lost or confused with the information I am presenting. I also did not base my project around a single state or specific juvenile justice system. I really wanted my project to have a national scope, both to show that this is a national issue and to keep as wide an audience as possible.  
+
+**Summary**
+
+A lot of my project involved tracking down data. As my project illustrates it was hard to track down information about the juvenile justice system that did not relate to demographic information about the minors the US is incarcerating. I think it’s really interesting that there is so much demographic information, yet there are not even any requirements for collecting data related to the efficacy of juvenile justice programs. For a system supposedly based on rehabilitation, there is little data in terms of measuring success.  
+
+Another large piece of my project was narrowing the scope. The juvenile justice system is a massive topic that involves far more issues than I could fit into a single project. I left out topics like the school to prison pipeline and information about being charged and either taking a plea or going to court. All of these topics and many more are important and each warrant a project specific to them. I ultimately decided to focus the most on the kids and their experiences inside detention. I did this because it’s one of the topics within the juvenile justice system that I know the least about and I thought others would be less likely to have concrete information on this topic. 
+
+I did think about expanding my topic. One of my interviewees for my wireframes suggested that I could strengthen my project by including data around the price of juvenile detention and recidivism of young offenders. I have this data and it includes incredibly high numbers across most states. However, I really wanted my project to focus on the kids in detention and I did not want the cost of detention to distract the audience from them. 
+
+Much of my design designs revolved around keeping my visualizations simple and clear. I was aiming for the kind of visualizations where their meaning can be understood quickly. Another way I kept my visualization simple was keeping my use of color to a minimum. I only used color when there was something I wanted to stress and tried not to use several different colors on a single visualization. I also tried to keep to a consistent color scheme of blue and red throughout the majority of my project. 
+
+This project helped me focus on being visually precise and viewing a visualization as an experience. In my interviews I received a lot of comments on minor details, such as a legend that was not in the same order as the visualization. I thought about how my audience would experience the image and tried to correct any small details that could cloud the visualization’s meaning.  
+
+I also thought a lot about how information and visualizations work together. I ended up cutting certain visualizations since I felt they did not enhance the text. I had one bar chart I liked that showed that half of students entered juvenile detention academically behind their peers. I had a single red bar going down from 0 to -50%. While the meaning was quickly apparent to most of my interviewees, the chart became confusing if you actually really looked at it. I wasn’t trying to show a percent decrease and 0 does not equate to average academic performance. I tried to make an infographic with this information, something with a bar that would have 50% below it. I ultimately decided that the words were enough on their own and that the data could not be better understood or presented more clearly in a visual form (that I could make). There was also data where I chose to go with an image instead of a graph as I thought this made the meaning clearer. 
+
+Overall, I learned a lot about the US juvenile justice system. This project also made me think more critically about data and the most effective ways to communicate information.
+
+# Sources 
+
+ACLU and Humans Rights Watch. Growing Up Locked Down Youth in Solitary Confinement in Jails and Prisons Across the United States. (2012). http://www.njjn.org/uploads/digital-library/Growing-Up-Locked-Down--Youth-in-Solitary-Confinement-in-Jails-and-Prisons-Across-the-United-States_HRW-ACLU_10-10-12.pdf 
+
+The Annie E. Casey Foundation. No Place for Kids. (2014). https://www.aecf.org/resources/no-place-for-kids-full-report/
+
+McCluskey, Molly. What If This Were Your Kid. The Atlantic. (2017) https://www.theatlantic.com/politics/archive/2017/12/juvenile-solitary-confinement/548933/
+
+Bozik, Robert et al. Rand. How Effective Is Correctional Education, and Where Do We Go from Here?. Rand Corporation (2014). https://www.rand.org/pubs/research_reports/RR564.html
+
+Brown, Emma. Washington Post. Educational Opportunities Lag for Kids in Juvenile Detention, Study Finds (2015).
+https://www.washingtonpost.com/news/education/wp/2015/11/05/educational-opportunities-lag-for-kids-in-juvenile-detention-study-finds/
+
+The Burns Institute http://data.burnsinstitute.org/#comparison=3&placement=3&races=1,2,3,4,5,6&offenses=5,2,8,1,9,11,10&year=2015&view=table
+
+Burrell, Sue. The National Child Traumatic Stress Network. Trauma and the Environment of Care in Juvenile Institutions.(2013). https://www.njjn.org/uploads/digital-library/NCTSN_trauma-and-environment-of-juvenile-care-institutions_Sue-Burrell_September-2013.pdf
+
+Complex Trauma Treatment Network of the National Child Traumatic Stress Network. Complex Trauma: In Juvenile Justice System Involved Youth. (2016). Los Angeles, CA, & Durham, NC: National Center for Child Traumatic Stress. https://www.nctsn.org/resources/complex-trauma-juvenile-justice-system-involved-youth
+
+The Council of State Governments Justice Center. Locked Out.  (2015). https://csgjusticecenter.org/wp-content/uploads/2015/11/LOCKED_OUT_Improving_Educational_and_Vocational_Outcomes_for_Incarcerated_Youth.pdf
+
+Keierleber, Max. The 74. The Lost Kids: New Report Exposes Startling Lack of Education Standards at Juvenile Justice Facilities. (2015).
+https://www.the74million.org/article/the-lost-kids-new-report-exposes-startling-lack-of-education-standards-at-juvenile-justice-facilities/
+
+Leone, Peter and Lewis Weinberg. Addressing the Unmet Educational Needs of Children and Youth in the Juvenile Justice and Child Welfare Systems. Center for Juvenile Justice Reform at Georgetown University. (2012). https://cjjr.georgetown.edu/wp-content/uploads/2015/03/EducationalNeedsofChildrenandYouth_May2010.pdf .
+
+Models for Change. Because Kids are Different: Five Opportunities for Reforming the Juvenile Justice System. (2014). http://www.modelsforchange.net/publications/718
+
+Models for Change.  Innovation Brief: Mental Health Needs and Due Process Rights: Finding the Balance. - Systems Reforms for Juvenile Justice (2012). http://www.modelsforchange.net/publications/355
+
+MST Services. Do We Know The Full Extent of Juvenile Recidivism? http://info.mstservices.com/blog/juvenile-recidivism-rates
+
+National Center for Mental Health and Juvenile Justice. Better Solutions for Youth with Mental Health Needs in the Juvenile Justice System. (2014). https://www.njjn.org/uploads/digital-library/Whitepaper_Mental-Health-and-JJ_January-2014.pdf 
+
+National Juvenile Justice Network. Snapshot - Improving Educational Opportunities for Youth in the Juvenile Justice System. (2016). https://www.njjn.org/our-work/improving-education-for-youth-in-juvenile-justice-snapshot
+
+The National Child Traumatic Stress Network. https://www.nctsn.org/sites/default/files/resources//victimization_juvenile_offending.pdf#page=4
+
+NDTAC. Fast Facts. https://neglected-delinquent.ed.gov/fast-facts/united-states?subpart=1%20
+
+Office of Juvenile Justice and Delinquency Prevention. https://www.ojjdp.gov/ojstatbb/
+
+Schiraldi, Vincent & McCarthy, Patrick & Shark, Miriam. New Thinking in Community Corrections Bulletin. The Future of Youth Justice: A Community-Based Alternative to the Youth Prison Model. NCJ 250142.(2016).  https://www.researchgate.net/publication/310607289_The_Future_of_Youth_Justice_A_Community-Based_Alternative_to_the_Youth_Prison_ModelLastly.
+
+Southern Education Foundation. Just Learning. (2014).https://www.southerneducation.org/wp-content/uploads/2019/02/Just-Learning-Final.pdf. 
+
+Texas Public Policy Foundation. Getting More for Less. (2010). https://www.njjn.org/uploads/digital-library/resource_1535.pdf 
+
+U.S. Department of Justice. Juvenile Residential Facility Census, 2006: Selected Findings https://www.ncjrs.gov/pdffiles1/ojjdp/228128.pdf
+
+Westall, Sarah. Kids Locked Up in America – Youth Incarceration Rates are 5 to 10 Times Higher than Other Developed Countries https://sarahwestall.com/youth-incarceration/
+
+
+
+
+
+
+
  
